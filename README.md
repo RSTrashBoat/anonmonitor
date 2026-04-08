@@ -23,7 +23,7 @@
 ---
 
 ## Preview
-██████╗ ...ANONMONITOR...
+...ANONMONITOR...
 live anonymity dashboard v2.0  //  kali linux  ⠋
 ── IP ──────────────────────────────────
 ● real IP         103.45.67.89
